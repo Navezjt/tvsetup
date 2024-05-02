@@ -1,4 +1,4 @@
-# Contributing guide 
+# Contributing guide
 
 ## What we need
 
